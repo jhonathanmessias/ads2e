@@ -1,0 +1,1 @@
+Será um aplicativo mobile, que será desenvolvido com a linguagem Kotlin, por ser bastante comhecida no mercado. Para moitoramento do funcionamento, saúde do aplicativo será feito em phyton ou JavaScript para gerar os dashboards.

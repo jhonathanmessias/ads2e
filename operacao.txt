@@ -1,0 +1,2 @@
+Será feito a implantação via cloud build.
+O monitoramento será feito via dashboard fazendo a integração com os serviços do aplicativo, para monitorar a saúde e ver quais os pontos que está gerando erros.

@@ -1,0 +1,3 @@
+﻿Autenticação de usuários (Clientes, motoristas e administradores);
+Cadastro de usuários, permitiando operações (solicitar o carro voador mais próximo do cliente para viagem);
+Forma de pagamento, pesquisa de endereço, quantidade de passageiros e com limite de preço até 10 dolares.

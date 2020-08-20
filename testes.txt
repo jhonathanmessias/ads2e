@@ -1,0 +1,6 @@
+Será feito testes de integridade do software;
+Testes de fluxo e se está de forma correta, atendendo os requisitos e segurança de dados;
+Testando o cadastro do usuário;
+Login;
+Se está acessando o dashboard correto e não de motorista ou administrador;
+Testar se está atendendo o requisito de limite de 10 dolares por viagem;
